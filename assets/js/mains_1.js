@@ -1,4 +1,4 @@
-// ===================== AICRAFT-2027 shared behaviour =====================
+// ===================== AICRAFT2027 shared behaviour =====================
 
 document.addEventListener('DOMContentLoaded', function () {
 
